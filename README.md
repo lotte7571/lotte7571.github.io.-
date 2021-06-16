@@ -8,6 +8,6 @@
     <li><a href="#">speciale gelegenheden</a></li>
     <li><a href="#">school</a></li>
   </ul>
-body{
+
 background: #000 url("/assets/bg.jpg")
-}
+
