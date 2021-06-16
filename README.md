@@ -10,3 +10,4 @@
   </ul>
 body{
 background: #000 url("/assets/bg.jpg")
+}
