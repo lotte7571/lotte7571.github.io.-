@@ -2,7 +2,6 @@
 <p>Op deze website geven wij jou ideale styling tips!</p>
 <ul>
   <li><a href="#">zomer</a></li>
-  <h1>hey</h1>
   <li><a href="#">winter</a></li>
   <li><a href="#">herfst</a></li>
     <li><a href="#">lente</a></li>
