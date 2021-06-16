@@ -2,7 +2,7 @@
 <p>Op deze website geven wij jou ideale styling tips!</p>
 <ul>
   <li><a href="#">zomer</a></li>
-  <link href="style.css"rel="stylesheet
+  <link href="style.css"rel="stylesheet>
   <li><a href="#">winter</a></li>
   <li><a href="#">herfst</a></li>
     <li><a href="#">lente</a></li>
