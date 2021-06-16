@@ -2,6 +2,7 @@
 <p>Op deze website geven wij jou ideale styling tips!</p>
 <ul>
   <li><a href="#">zomer</a></li>
+  <link href="style.css"rel="stylesheet
   <li><a href="#">winter</a></li>
   <li><a href="#">herfst</a></li>
     <li><a href="#">lente</a></li>
@@ -9,5 +10,5 @@
     <li><a href="#">school</a></li>
   </ul>
 
-background: #000 url("/assets/bg.jpg")
+
 
