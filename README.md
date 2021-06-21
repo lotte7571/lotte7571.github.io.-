@@ -9,6 +9,3 @@
     <li><a href="#">speciale gelegenheden</a></li>
     <li><a href="#">school</a></li>
   </ul>
-
-
-
