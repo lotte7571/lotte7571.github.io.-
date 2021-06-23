@@ -1,3 +1,5 @@
+<!DOCTYPE html> 
+
 <h1>index.html</h1>
 <h2>"Char"Lotte</h2>
 <p>Op deze website geven wij jou ideale styling tips!</p>
